@@ -14,4 +14,5 @@ Este licensing Manager Funciona en todas las versiones de WHMCS.
 (solo recuerda agregar las lineas del lenguaje del archivo LEEME_PLEASE.txt)
 
 Mas informacion en: https://www.whmcs.com/software-licensing/
+
 Documentacion: https://docs.whmcs.com/Licensing_Addon 
